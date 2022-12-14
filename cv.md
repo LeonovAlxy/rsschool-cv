@@ -25,6 +25,7 @@ function Item(name,model,color){
 
 ```
 ## **Education:**
+### **University**
 The BSU International Relations Faculty 
 Major in International Relations. 
 ### **Courses:**
