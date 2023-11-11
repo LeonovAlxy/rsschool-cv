@@ -4,7 +4,7 @@
 * **Phone:** +375298064271
 * **E-mail:** lleonovalxeyl@gmail.com
 * **Telegram:** @alvaleonov
-* **GitHub:** <https://github.com/LeonovAlxy/rsschool-cv>
+* **GitHub:** <https://github.com/LeonovAlxy>
 ## Briefly About Myself:
 Frontend development has interested me since university. After graduating from the Faculty of International Relations of BSU, I began to pay attention to programming in the evenings. It has become a hobby for me, but I want it to become my main job. I think frontend development includes creativity, logical tasks, communication and self-development. That's why I like it. 
 I believe that hard work, desire, and small steps every day will lead me to the goal of becoming a frontend developer.
@@ -34,7 +34,7 @@ function likes(names) {
 return
 }
 ```
-* Task.Write a function *dirReduc* which will take an array of strings and returns an array of strings with the needless directions removed (W<->E or S<->N side by side).
+* Task. Write a function *dirReduc* which will take an array of strings and returns an array of strings with the needless directions removed (W<->E or S<->N side by side).
 ```
 function dirReduc(arr){
     const result = []
@@ -60,7 +60,7 @@ function dirReduc(arr){
 * Redev Course «Front-end» (in progress) <https://www.instagram.com/redev_courses/?hl=ru>
 ## Languages:
 * English - Advanced (according to the online test at  www.efset.org)
-![](D:\EF SET Cert.png)
+<img src="file:///D:/images/EF_SET_Cert.png" />
 * French -  Intermediate/Upper-intermediate
 * Arabic - Pre-intermediate
 * Polish - Basic
