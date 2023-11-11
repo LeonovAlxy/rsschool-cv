@@ -1,19 +1,19 @@
 # Aliasksei Leanovich
 ## Junior Frontend Developer
 ## Contact information:
-***Phone:** +375298064271
-***E-mail:** lleonovalxeyl@gmail.com
-***Telegram:** @alvaleonov
-***GitHub:** <https://github.com/LeonovAlxy/rsschool-cv>
+* **Phone:** +375298064271
+* **E-mail:** lleonovalxeyl@gmail.com
+* **Telegram:** @alvaleonov
+* **GitHub:** <https://github.com/LeonovAlxy/rsschool-cv>
 ## Briefly About Myself:
 Frontend development has interested me since university. After graduating from the Faculty of International Relations of BSU, I began to pay attention to programming in the evenings. It has become a hobby for me, but I want it to become my main job. I think frontend development includes creativity, logical tasks, communication and self-development. That's why I like it. 
 I believe that hard work, desire, and small steps every day will lead me to the goal of becoming a frontend developer.
 ## Skills and Proficiency:
-*HTML5, CSS3
-*JavaScript Basics
-*Java Basics
-*Git, GitHub
-*VS Code, IntelliJ IDEA
+* HTML5, CSS3
+* JavaScript Basics
+* Java Basics
+* Git, GitHub
+* VS Code, IntelliJ IDEA
 ## Code example:
 * Task. Implement the function which takes an array containing the names of people that "like" an item.
 ```
@@ -34,7 +34,7 @@ function likes(names) {
 return
 }
 ```
-*Task.Write a function *dirReduc* which will take an array of strings and returns an array of strings with the needless directions removed (W<->E or S<->N side by side).
+* Task.Write a function *dirReduc* which will take an array of strings and returns an array of strings with the needless directions removed (W<->E or S<->N side by side).
 ```
 function dirReduc(arr){
     const result = []
