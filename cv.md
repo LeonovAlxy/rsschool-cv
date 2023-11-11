@@ -60,7 +60,7 @@ function dirReduc(arr){
 * Redev Course «Front-end» (in progress) <https://www.instagram.com/redev_courses/?hl=ru>
 ## Languages:
 * English - Advanced (according to the online test at  www.efset.org)
-![image of certificate](img/EF_SET_Cert.png)
+![image of certificate](https://github.com/LeonovAlxy/rsschool-cv/blob/gh-pages/EF_SET_Cert.png)
 * French -  Intermediate/Upper-intermediate
 * Arabic - Pre-intermediate
 * Polish - Basic
